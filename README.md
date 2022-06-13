@@ -24,10 +24,44 @@ This project uses descriptive analysis to help formulate 3 concrete business rec
 
 ### Results
 
-### Conclusions
+From 2010 to 2018, movies that grossed over $25M at the domestic box office tended to be either Comedy, Drama, Action, or Adventure films.
 
-## Next Steps
+![Top_Gross_Movies_By_Genre](https://user-images.githubusercontent.com/100182035/173442880-b5f74c7a-9a89-496e-8982-2e02383c6a02.png)
+
+Movies that were 120 to 170 minutes long tended to have a higher domestic movie gross.
+
+![Avg_Dom_Gross_By_Runtime](https://user-images.githubusercontent.com/100182035/173442921-5ece7200-9cbb-458d-8278-18375999acc7.png)
+
+Movies that were released in May, June, July or December had the highest average domestic gross.
+
+![Avg_Dom_Gross_By_Month](https://user-images.githubusercontent.com/100182035/173442932-1370558e-e588-453a-882d-60c11c2fca5a.png)
+
+## Conclusions
+
+This analysis leads to three recommedations for Microsoft to keep in mind while launching their new movie studio:
+
+* Microsoft Studios should produce movies that are in the Comedy, Drama, Action, or Adventure genres.
+* Microsoft Studios should aim to produce movies that are 120 to 170 minutes long.
+* Microsoft Studios should release movies in May, June, July or December.
+
+### Next Steps
+
+Further analysis could yield additional insights to help guide Microsoft as it starts its new movie studio:
+
+* Look at production budgets for each film and see what type of genre has the best return on investment based on the movie gross.
+* Look at the marketing budgets for each film and see what type of advertising each film did. Options could include out of home, linear TV advertising, digital advertising, custom content, etc.
+* The movie distribution landscape is rapidly changing as films are no longer going to theaters and then to home entertainment 90 days later. Although there would be limited data available, we could attempt to see what type of distribution model grosses the most amount of dollars (box office performance + home entertainment sales).
+* We could also look to analyze the number of movies that were released on the same weekend and see how that affects box office performance as well as long term movie performance.
 
 ## For More Information
 
 ## Repository Structure
+├── data
+
+├── images
+
+├── README.md
+
+├── presentation.pdf
+
+└── animal_shelter_needs_analysis.ipynb
