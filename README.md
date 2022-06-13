@@ -56,12 +56,12 @@ Further analysis could yield additional insights to help guide Microsoft as it s
 ## For More Information
 
 ## Repository Structure
-├── data
+├── Data
 
-├── images
+├── Images
 
 ├── README.md
 
 ├── presentation.pdf
 
-└── animal_shelter_needs_analysis.ipynb
+└── Phase_1_Final_Project.ipynb
